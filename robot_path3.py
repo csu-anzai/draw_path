@@ -15,7 +15,6 @@ def get_robot_palyback_path(url, playback_id, robot_id):
         print(int(k[0]))
         print(k[1])
 
-
 if __name__ == '__main__':
     url = 'http://127.0.0.1:8889'
     robot_id = 1291079
